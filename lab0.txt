@@ -1,0 +1,68 @@
+[I 01:00:49.474 LabApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 01:00:50.377 LabApp] JupyterLab extension loaded from /home/chyld/.conda/envs/py37/lib/python3.7/site-packages/jupyterlab
+[I 01:00:50.377 LabApp] JupyterLab application directory is /home/chyld/.conda/envs/py37/share/jupyter/lab
+[W 01:00:50.378 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 01:00:50.380 LabApp] JupyterLab extension loaded from /home/chyld/.conda/envs/py37/lib/python3.7/site-packages/jupyterlab
+[I 01:00:50.380 LabApp] JupyterLab application directory is /home/chyld/.conda/envs/py37/share/jupyter/lab
+[I 01:00:50.380 LabApp] Serving notebooks from local directory: /home/chyld/Code/bayesian-analysis
+[I 01:00:50.380 LabApp] The Jupyter Notebook is running at:
+[I 01:00:50.380 LabApp] http://(neptune or 127.0.0.1):3000/?token=9f50a198a365645cde512e12fa18eee4031fd963bbf30126
+[I 01:00:50.380 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:00:50.383 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-3340-open.html
+    Or copy and paste one of these URLs:
+        http://(neptune or 127.0.0.1):3000/?token=9f50a198a365645cde512e12fa18eee4031fd963bbf30126
+[I 01:01:22.592 LabApp] 302 GET /?token=9f50a198a365645cde512e12fa18eee4031fd963bbf30126 (127.0.0.1) 0.81ms
+[I 01:01:23.360 LabApp] Node v12.1.0
+    
+[I 01:01:23.478 LabApp] Build is up to date
+[W 01:01:23.545 LabApp] 404 GET /api/contents/Untitled.ipynb?content=0&1557561683533 (127.0.0.1): No such file or directory: Untitled.ipynb
+[W 01:01:23.545 LabApp] No such file or directory: Untitled.ipynb
+[W 01:01:23.546 LabApp] 404 GET /api/contents/Untitled.ipynb?content=0&1557561683533 (127.0.0.1) 1.01ms referer=http://127.0.0.1:3000/lab
+[I 01:40:09.302 LabApp] Creating new notebook in /
+[I 01:40:09.403 LabApp] Kernel started: 6cc8ad14-24be-4758-9228-fe4d886ac4c0
+[I 01:40:10.455 LabApp] Adapting to protocol v5.1 for kernel 6cc8ad14-24be-4758-9228-fe4d886ac4c0
+[I 01:40:10.471 LabApp] Adapting to protocol v5.1 for kernel 6cc8ad14-24be-4758-9228-fe4d886ac4c0
+[I 01:42:09.696 LabApp] Saving file at /Untitled.ipynb
+[I 01:42:33.400 LabApp] Saving file at /coin-flips.ipynb
+[I 01:46:33.450 LabApp] Saving file at /coin-flips.ipynb
+[I 01:48:33.483 LabApp] Saving file at /coin-flips.ipynb
+[I 01:50:33.517 LabApp] Saving file at /coin-flips.ipynb
+[I 01:52:33.614 LabApp] Saving file at /coin-flips.ipynb
+[I 02:02:29.887 LabApp] Creating new notebook in /
+[I 02:02:29.993 LabApp] Kernel started: 14ce33a9-7363-4c30-bcd2-5135dd71f117
+[I 02:02:31.052 LabApp] Adapting to protocol v5.1 for kernel 14ce33a9-7363-4c30-bcd2-5135dd71f117
+[I 02:02:46.290 LabApp] Saving file at /01-explore.ipynb
+[I 02:04:46.669 LabApp] Saving file at /01-explore.ipynb
+[I 02:16:48.615 LabApp] Saving file at /01-explore.ipynb
+[I 03:05:00.680 LabApp] Saving file at /01-explore.ipynb
+[I 03:07:00.702 LabApp] Saving file at /01-explore.ipynb
+[I 03:07:15.215 LabApp] Saving file at /01-explore.ipynb
+[I 03:07:30.090 LabApp] Saving file at /01-explore.ipynb
+[I 13:15:05.249 LabApp] Saving file at /01-explore.ipynb
+[I 13:17:05.286 LabApp] Saving file at /01-explore.ipynb
+[I 13:19:06.185 LabApp] Saving file at /01-explore.ipynb
+[I 19:36:56.225 LabApp] Saving file at /coin-flips.ipynb
+[I 19:38:56.258 LabApp] Saving file at /coin-flips.ipynb
+[I 19:40:57.192 LabApp] Saving file at /coin-flips.ipynb
+[I 19:42:57.233 LabApp] Saving file at /coin-flips.ipynb
+[I 19:44:57.272 LabApp] Saving file at /coin-flips.ipynb
+[I 19:46:57.316 LabApp] Saving file at /coin-flips.ipynb
+[I 19:48:57.353 LabApp] Saving file at /coin-flips.ipynb
+[I 19:50:57.386 LabApp] Saving file at /coin-flips.ipynb
+[I 19:51:27.040 LabApp] Saving file at /coin-flips.ipynb
+[I 22:30:09.476 LabApp] Saving file at /coin-flips.ipynb
+[I 22:32:09.517 LabApp] Saving file at /coin-flips.ipynb
+[I 22:34:09.566 LabApp] Saving file at /coin-flips.ipynb
+[I 22:38:09.608 LabApp] Saving file at /coin-flips.ipynb
+[I 22:40:09.662 LabApp] Saving file at /coin-flips.ipynb
+[I 22:42:09.715 LabApp] Saving file at /coin-flips.ipynb
+[I 22:44:09.765 LabApp] Saving file at /coin-flips.ipynb
+[I 22:45:38.637 LabApp] Saving file at /coin-flips.ipynb
+[I 15:47:18.874 LabApp] Kernel started: e83d8ff8-8410-4c9d-9a70-51cbc9843695
+[I 15:47:19.822 LabApp] Adapting to protocol v5.1 for kernel e83d8ff8-8410-4c9d-9a70-51cbc9843695
+[I 15:49:18.720 LabApp] Saving file at /01-coin-flips.ipynb
+[I 15:51:18.789 LabApp] Saving file at /01-coin-flips.ipynb
+[I 15:51:48.467 LabApp] Saving file at /01-coin-flips.ipynb
