@@ -66,3 +66,60 @@
 [I 15:49:18.720 LabApp] Saving file at /01-coin-flips.ipynb
 [I 15:51:18.789 LabApp] Saving file at /01-coin-flips.ipynb
 [I 15:51:48.467 LabApp] Saving file at /01-coin-flips.ipynb
+[I 15:56:38.457 LabApp] Creating new notebook in /
+[I 15:56:38.526 LabApp] Kernel started: b53667bc-7462-49cc-9e05-8940973def83
+[I 15:56:39.307 LabApp] Adapting to protocol v5.1 for kernel b53667bc-7462-49cc-9e05-8940973def83
+[I 15:56:52.516 LabApp] Saving file at /02-linear-regression.ipynb
+[I 15:57:54.943 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:01:54.968 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:03:54.986 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:05:55.008 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:07:55.029 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:09:55.047 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:11:37.195 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:13:21.613 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:15:21.644 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:17:21.683 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:19:22.571 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:23:22.612 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:25:22.652 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:27:22.703 LabApp] Saving file at /02-linear-regression.ipynb
+[I 16:27:33.183 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:03:11.819 LabApp] Starting buffering for b53667bc-7462-49cc-9e05-8940973def83:0d52867e-56bb-42a0-89c1-139c44b3cf5d
+[I 02:03:16.939 LabApp] Kernel restarted: b53667bc-7462-49cc-9e05-8940973def83
+[I 02:03:17.712 LabApp] Adapting to protocol v5.1 for kernel b53667bc-7462-49cc-9e05-8940973def83
+[I 02:03:17.713 LabApp] Restoring connection for b53667bc-7462-49cc-9e05-8940973def83:0d52867e-56bb-42a0-89c1-139c44b3cf5d
+[I 02:03:27.122 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:04:58.466 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:06:58.523 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:08:55.412 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:10:55.491 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:11:39.886 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:17:39.974 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:19:40.060 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:19:47.306 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:21:47.379 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:23:47.443 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:24:04.317 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:25:21.719 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:26:32.368 LabApp] Saving file at /02-linear-regression.ipynb
+[I 02:29:15.831 LabApp] Saving file at /02-linear-regression.ipynb
+[I 22:15:03.352 LabApp] Creating new notebook in /
+[I 22:15:03.458 LabApp] Kernel started: 34036adc-df9f-406c-bec2-b15cf8512cc8
+[I 22:15:04.205 LabApp] Adapting to protocol v5.1 for kernel 34036adc-df9f-406c-bec2-b15cf8512cc8
+[I 22:17:03.433 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:17:26.402 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:18:25.550 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:26:26.252 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:34:29.110 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:50:34.069 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:52:04.335 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:54:04.372 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:54:07.017 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 22:54:28.604 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 23:02:28.655 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 23:04:28.693 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 23:06:28.724 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 23:07:12.368 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 23:07:59.784 LabApp] Saving file at /00-maximum-likelihood.ipynb
+[I 23:08:19.550 LabApp] Saving file at /00-maximum-likelihood.ipynb
